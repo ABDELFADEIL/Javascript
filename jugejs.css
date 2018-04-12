@@ -1,0 +1,45 @@
+.jauge {
+    /* background: blueviolet; */
+    border: 1px solid rgb(154, 228, 228);
+    /* background: blue; */
+    border-radius: 5px;
+    width: 200px;
+    padding-left: 15px;
+    height: 30px;
+    position: relative;
+    z-index: 1;
+}
+ div#bg {
+    border: 1px solid rgb(154, 228, 228);
+    border-radius: 5px;
+    width: 200px;
+    padding-left: 15px;
+    height: 30px;
+    position: absolute;
+    z-index: 0;
+    top: 107px;
+    left: 8px;
+    background: beige;
+    /* opacity: 0.0; */
+
+     /* border: 1px solid paleturquoise; */
+     /* background: blue; */
+
+} 
+
+#my_range {
+    width: 200px;
+}
+span .value, span.unit {
+    display: inline-block;
+    -ms-text-justify: 
+
+ }
+ /*
+.hint {
+    height: 100%;
+    background: aqua;
+} */
+/* .hint {
+    background: blue;
+} */

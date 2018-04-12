@@ -1,0 +1,42 @@
+* {
+    padding: 20;
+    margin: 0;
+    background: cadetblue;
+    color: black; 
+}
+
+#list{
+    list-style-type: none;
+    padding: 20px;
+    margin: 0;
+} 
+h1, h2 {
+    padding: 20px;
+}
+input {
+    margin-left: 20px;
+    background: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background: wheat;
+
+}
+ul li  {
+    background: wheat;
+    width: 130px;
+    border: 1px solid rgb(122, 251, 255);
+}
+/* ul li a:hover {
+    background-color: rgba(122, 251, 255, .5);
+} */
+#rechercher {
+    background-image: url('../searchicon.png');
+    background-position: 10px 12px;
+    background-repeat: no-repeat; 
+}
+/* ul li:hover {
+    background-color: rgba(122, 251, 255, .5);
+} */
